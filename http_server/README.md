@@ -7,3 +7,6 @@ sudo yum install nginx
 # 启动nginx
 nginx -c 绝对路径.conf
 
+配置
+XXXXXXXDDDDDDDSSSSSS
+
